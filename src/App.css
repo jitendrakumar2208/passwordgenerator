@@ -1,0 +1,9 @@
+.container {
+  text-align: center;
+}
+.input_text input {
+  font-size: 16px;
+  padding: 5px 10px;
+  outline: none;
+  margin: 10px 15px;
+}
